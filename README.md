@@ -1,1 +1,3 @@
 UCLA EC ENGR 209AS Winter Quarter 2023 Project
+
+As technology advances, methods in which we authenticate are quickly coming into question. Biometrics are being easily fooled with deep fakes and PIN codes have long been shown to be susceptible to a variety of attacks. Even increased security such as 2FA is still particularly vulnerable to man-in-the-middle attacks or social engineering. Therefore, finding new forms of authentication has been a topic of great interest in security. Of these, techniques like Gait Authentication have been introduced as possibly safer methods to secure our identity. But how safe are these systems? How vulnerable is our identity to motion?
